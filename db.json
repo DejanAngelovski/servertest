@@ -366,36 +366,6 @@
       "id": "3",
       "title": "Factory Girl",
       "img": "images/blue-jacket2.avif"
-    },
-    {
-      "id": "4",
-      "title": "Main Days",
-      "img": "images/white-jacket2.jpeg"
-    },
-    {
-      "id": "5",
-      "title": "Fraeil",
-      "img": "images/orange-shorts2.jpeg"
-    },
-    {
-      "id": "6",
-      "title": "Urma",
-      "img": "images/black-jeans2.jpeg"
-    },
-    {
-      "id": "7",
-      "title": "Candle Nest",
-      "img": "images/red-shirt2.jpeg"
-    },
-    {
-      "id": "8",
-      "title": "Beyond Green",
-      "img": "images/green-shirt2.jpeg"
-    },
-    {
-      "id": "9",
-      "title": "Gatta",
-      "img": "images/gray-shirt2.jpeg"
     }
   ]
 }
